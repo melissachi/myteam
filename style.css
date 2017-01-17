@@ -1,0 +1,42 @@
+.jumbotron {
+    background-image: url("logo.png");
+    margin-bottom: -10px;`enter code here`
+    min-height: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    -webkit-background-size: cover;
+    background-size: cover;
+    position: relative;
+}
+.col-sm-8 {
+  text-align:center;
+}
+#title {
+  text-align:center;
+
+}
+.row {
+  font-family: 'Taviraj', serif;
+  padding-top: 20px;
+  font-size: 18px;
+  text-align: left;
+  color: #0021A5;
+  position: relative;
+}
+body {
+  font-family: 'Taviraj', serif;
+  color: #0021A5;
+  text-align: left;
+  font-weight: 300;
+  background-repeat: repeat;
+}
+.container {
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+#wrapper {
+  width: 960px;
+  margin: 20px auto 20px auto;
+}
